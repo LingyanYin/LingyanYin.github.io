@@ -4,7 +4,11 @@ title: About
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2014-09-07T16:31:30+05:30
+    lastmod: 2018-03-10
 ---
 # About
-This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+Welcome to my blog!
+
+
+## Contact
+mysteryly AT gmail DOT com
