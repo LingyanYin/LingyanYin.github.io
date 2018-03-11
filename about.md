@@ -9,6 +9,8 @@ sitemap:
 # About
 Welcome to my blog!
 
+## More Information
+[LinkedIn](https://www.linkedin.com/in/mysteryly)
 
 ## Contact
 mysteryly AT gmail DOT com
